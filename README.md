@@ -18,6 +18,5 @@ who places great value on continuous growth🔥
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript&logoColor=ffffff&color=f0db4f)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
 ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react&logoColor=ffffff&color=61DBFB)
-![Node.js](https://img.shields.io/badge/-Node.js-white?style=flat-square&logo=javascript&logoColor=ffffff&color=3C873A)
 ![R](https://img.shields.io/badge/-R-white?style=flat-square&logo=r&logoColor=ffffff&color=276DC3)
 
