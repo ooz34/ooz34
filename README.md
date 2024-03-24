@@ -4,8 +4,9 @@ A Junior Web Backend Developer <br/>
 who places great value on continuous growth🔥
 <br />
 
-✍🏻 [Blog](https://ooz34.github.io/) <br/>
+✍🏻 [Blog](https://ooz34.github.io/)　|　[CodeSnap](https://codesnapmag.hashnode.dev/) <br/>
 💼 [Portfolio](https://www.notion.so/ooz34/a7c7e4da7eed4208844d2ac489461ad3?pvs=4/) <br/>
+
 
 <br/>
 
