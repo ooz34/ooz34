@@ -1,6 +1,6 @@
-**Hello, I'm Ah Ra.**
+**Hello, I'm AhRa.**
 <br />
-A Junior Web Backend Developer <br/>
+Backend Developer <br/>
 who places great value on continuous growth🔥
 <br />
 
