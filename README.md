@@ -1,4 +1,4 @@
-**Hello, I'm AhRa.**
+**Hello, I'm Ahra.**
 <br />
 Backend Developer <br/>
 who places great value on continuous growth🔥
