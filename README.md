@@ -25,7 +25,7 @@ who places great value on continuous growth🔥
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=o_oz)](https://solved.ac/o_oz)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooz34&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooz34&layout=compact) -->
 
 <br/>
 
