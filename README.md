@@ -21,10 +21,10 @@ who places great value on continuous growth🔥
 
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ooz34&hide=stars,issues&show=reviews&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=o_oz)](https://solved.ac/o_oz)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ooz34&hide=stars,issues&show=reviews&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=o_oz&theme=cold)](https://solved.ac/o_oz)
 
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=o_oz)](https://solved.ac/o_oz) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooz34&layout=compact) -->
 
 <br/>
