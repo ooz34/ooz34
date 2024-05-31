@@ -2,7 +2,7 @@
 <br />
 Backend Developer <br/>
 who places great value on continuous growth🔥
-<br />
+<br /> 
 
 ✍🏻 <a href="https://velog.io/@ooz34/posts"><img src="https://img.shields.io/badge/-Blog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a> 
     <a href="https://codesnapmag.hashnode.dev/"><img src="https://img.shields.io/badge/-CodeSnap-2962FF?style=flat-square&logo=hashnode&logoColor=white&"/></a> <br/>
